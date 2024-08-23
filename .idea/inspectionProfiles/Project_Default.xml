@@ -1,0 +1,13 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="rdkit.Chem.Draw.rdMolDraw2D" />
+          <option value="schnetpack_gschnet.datasets.qm9.r1r2r3r4r5rd6r7r8r9" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
